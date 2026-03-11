@@ -1,0 +1,5 @@
+$kind: http-request
+name: Add Patient
+url: ""
+method: GET
+order: 1773255231919
